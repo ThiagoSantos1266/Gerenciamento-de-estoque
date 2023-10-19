@@ -1,8 +1,13 @@
 Título: Gerenciamento de estoque;
+
 Status do projeto: Em desenvolvimento;
+
 Tecnologias que serão aplicadas: Java e MySql;
+
 Time de desenvolvedores: Thiago dos Santos;
-Objetivo do software: Ele vai ser usado para gerenciar o estoque de produtos em gerais, como entrada de produtos e saidas de produtos.
+
+Objetivo do software: Ele vai ser usado para gerenciar o estoque de produtos em gerais, como entrada de produtos e saidas de produtos;
+
 Funcionalidades do sistema: 
 1. *Cadastro de Produtos:*
    - Nome do produto
